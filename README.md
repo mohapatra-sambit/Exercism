@@ -1,2 +1,0 @@
-# Exercism
-Code from Exercism
